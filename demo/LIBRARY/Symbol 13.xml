@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 13" itemID="546006e5-0000013b" lastModified="1415603885">
+  <timeline>
+    <DOMTimeline name="Symbol 13">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Symbol 17" name="value_profiling">
+                  <matrix>
+                    <Matrix tx="364.05" ty="122.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-243.15" y="-122.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 14" name="rest">
+                  <transformationPoint>
+                    <Point y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 15" name="profiling">
+                  <matrix>
+                    <Matrix tx="-61.1" ty="42.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 16" name="merge">
+                  <matrix>
+                    <Matrix tx="122.25" ty="122.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-79.65" y="-61.15"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 16" name="unsort">
+                  <matrix>
+                    <Matrix tx="243.1" ty="122.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-79.65" y="-61.15"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="180"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 16" name="convert">
+                  <matrix>
+                    <Matrix tx="364.05" ty="122.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-79.65" y="-61.15"/>
+                  </transformationPoint>
+                  <filters>
+                    <AdjustColorFilter hue="-102"/>
+                  </filters>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="Symbol 17" name="predict">
+                  <matrix>
+                    <Matrix d="1.44711303710938" tx="364.05" ty="-193.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-243.15" y="-122.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

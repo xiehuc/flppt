@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="mov" itemID="545efe0f-00000021" lastModified="1415511567">
+  <timeline>
+    <DOMTimeline name="mov">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="374.95" objectHeight="156" x="-175" y="-209" selected="true" lockFlag="true">
+                  <matrix>
+                    <Matrix a="2.13365173339844" d="3.84579467773438" tx="373.4" ty="803.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-175" y="-209"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FF6600"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

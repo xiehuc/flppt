@@ -1,0 +1,126 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 5" itemID="545f68d5-0000016d" lastModified="1415712443">
+  <timeline>
+    <DOMTimeline name="Symbol 5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!5019 -5172|5019 0!5019 0|1395 0!1395 0|1395 -5172!-1376 -5172|-1376 0!-1376 0|-5000 0!-5000 0|-5000 -5172"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMRectangleObject objectWidth="145.05" objectHeight="195.05" x="-228.75" y="-51.2" selected="true" lockFlag="true">
+                      <matrix>
+                        <Matrix a="1.08561706542969" tx="10" ty="-154.3"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#FF6600"/>
+                      </fill>
+                    </DOMRectangleObject>
+                    <DOMRectangleObject objectWidth="145.05" objectHeight="195.05" x="-228.75" y="-51.2" selected="true" lockFlag="true">
+                      <matrix>
+                        <Matrix a="1.08561706542969" tx="328.7" ty="-154.3"/>
+                      </matrix>
+                      <fill>
+                        <SolidColor color="#FF6600"/>
+                      </fill>
+                    </DOMRectangleObject>
+                  </members>
+                </DOMGroup>
+                <DOMStaticText fontRenderingMode="standard" left="31.4" width="81.2" height="27" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-236.85" ty="9.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>虚拟机</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="31.4" width="81.2" height="27" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="86" ty="9.65"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>虚拟机</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="44.9" width="54.2" height="27" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-231.95" ty="-116.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>内存</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" left="44.9" width="54.2" height="27" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="91" ty="-110.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>内存</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cover" itemID="545efdcd-0000001c" linkageExportForAS="true" linkageClassName="cover" lastModified="1415608606" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="cover">
+      <layers>
+        <DOMLayer name="action" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[import com.greensock.TweenLite;
+import com.greensock.TimelineLite;
+import flash.events.Event;
+
+var tl:TimelineLite = new TimelineLite();
+this.enter = tl;
+tl.stop();
+tl.fromTo(_cover,1,{x:_cover.width}, {x:80-_cover.width});
+tl.add(function(){
+	dispatchEvent(new Event("pageout"));
+},0.5);
+tl.fromTo(title,1,{alpha:0}, {alpha:1},0);
+tl.add(["end",function(){
+	tl.pause();
+	dispatchEvent(new Event("finish"));
+}]);
+tl.to(_cover,1,{x:-_cover.width},"end");
+tl.to(title,1,{alpha:0},"end");
+tl.add(function(){
+	dispatchEvent(new Event("finish"));
+});
+]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="title" fontRenderingMode="device" left="26.2" width="54" height="580.1" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-14.2" ty="12.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>标题</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="54" bitmapSize="1080" face="ArialMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters></characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="54" bitmapSize="1080" face="ArialMT" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mov" name="_cover">
+                  <transformationPoint>
+                    <Point x="400" y="299.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

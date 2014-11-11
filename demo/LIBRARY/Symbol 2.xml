@@ -1,0 +1,27 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 2" itemID="545f525a-00000025" symbolType="graphic" lastModified="1415534046">
+  <timeline>
+    <DOMTimeline name="Symbol 2">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMRectangleObject objectWidth="145.05" objectHeight="195.05" x="-228.75" y="-51.2" lockFlag="true">
+                  <matrix>
+                    <Matrix a="1.08561706542969" d="0.256317138671875" tx="9.85" ty="-12.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-156.35" y="46.45"/>
+                  </transformationPoint>
+                  <fill>
+                    <SolidColor color="#FF6600"/>
+                  </fill>
+                </DOMRectangleObject>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
