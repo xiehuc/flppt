@@ -1,8 +1,8 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cover" itemID="545efdcd-0000001c" linkageExportForAS="true" linkageClassName="cover" lastModified="1415608606" lastUniqueIdentifier="1">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="cover" itemID="545efdcd-0000001c" linkageExportForAS="true" linkageClassName="cover" lastModified="1415842684" lastUniqueIdentifier="1">
   <timeline>
     <DOMTimeline name="cover">
       <layers>
-        <DOMLayer name="action" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+        <DOMLayer name="action" color="#FF800A" autoNamed="false">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <Actionscript>
@@ -33,7 +33,7 @@ tl.add(function(){
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 2" color="#9933CC">
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" keyMode="9728">
               <elements>
@@ -45,13 +45,7 @@ tl.add(function(){
                     <DOMTextRun>
                       <characters>标题</characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" size="54" bitmapSize="1080" face="ArialMT" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters></characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" autoKern="false" size="54" bitmapSize="1080" face="ArialMT" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" autoKern="false" size="54" bitmapSize="1080" face="SimHei" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
