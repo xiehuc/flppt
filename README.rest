@@ -1,0 +1,11 @@
+flppt --- flash ppt
+=====================
+
+a rough flash presentation control library
+
+build demo
+------------
+
+1.  open your flash professional
+2.  open/demo/demo.xfl , this is plain format for flash
+3.  build it and run.
