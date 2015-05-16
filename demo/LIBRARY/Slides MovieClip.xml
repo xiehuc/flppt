@@ -1,6 +1,6 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Slides MovieClip" itemID="4a94e3f8-000017ec" lastModified="1415712488" lastUniqueIdentifier="5">
   <timeline>
-    <DOMTimeline name="Slides MovieClip" currentFrame="7">
+    <DOMTimeline name="Slides MovieClip" currentFrame="9">
       <layers>
         <DOMLayer name="Guide:StageBounds" color="#9933CC" locked="true" autoNamed="false" layerType="guide">
           <frames>

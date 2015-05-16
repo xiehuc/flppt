@@ -1,9 +1,9 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" currentTimeline="1" xflVersion="2.4" creatorInfo="Adobe Flash Professional CC" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 14.0 build 110" majorVersion="14" buildNumber="110" guidesVisible="false" timelineLabelWidth="187" viewAngle3D="74.2651684569298" templateFilename="/Applications/Adobe Flash CC 2014/Adobe Flash CC 2014.app/Contents/en_US/Configuration/Templates/Presentations/Advanced Presentation.fla" templateDescription="Advanced Presentation using MovieClips. Transitions, button and keyboard navigation pre-coded." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="800" height="600" frameRate="60" currentTimeline="1" xflVersion="2.4" creatorInfo="Adobe Flash Professional CC" platform="Macintosh" versionInfo="Saved by Adobe Flash Macintosh 14.0 build 110" majorVersion="14" buildNumber="110" guidesVisible="false" timelineLabelWidth="187" viewAngle3D="74.2651684569298" templateFilename="/Applications/Adobe Flash CC 2014/Adobe Flash CC 2014.app/Contents/en_US/Configuration/Templates/Presentations/Advanced Presentation.fla" templateDescription="Advanced Presentation using MovieClips. Transitions, button and keyboard navigation pre-coded." nextSceneIdentifier="2" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" filetypeGUID="DD0DDBBF-5BEF-45B2-9F24-A3048D2A676F">
      <media>
-          <DOMBitmapItem name="990dd0ba271aa07bbe44b0d1ba0a80bd.jpg" itemID="54606e90-00000167" sourceExternalFilepath="./LIBRARY/990dd0ba271aa07bbe44b0d1ba0a80bd.png" sourceLastImported="1415605879" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="990dd0ba271aa07bbe44b0d1ba0a80bd.png" bitmapDataHRef="M 2 1415538234.dat" frameRight="5000" frameBottom="5160"/>
-          <DOMBitmapItem name="图片1.png" itemID="54605b01-0000013a" sourceExternalFilepath="./LIBRARY/图片1.png" sourceLastImported="1415594814" sourcePlatform="macintosh" externalFileCRC32="3067645926" externalFileSize="80540" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片1.png" bitmapDataHRef="M 2 1415600897.dat" frameRight="8920" frameBottom="11340"/>
-          <DOMBitmapItem name="图片2.png" itemID="54605b01-0000013e" sourceExternalFilepath="./LIBRARY/图片2.png" sourceLastImported="1415594818" sourcePlatform="macintosh" externalFileCRC32="1326931371" externalFileSize="110325" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片2.png" bitmapDataHRef="M 3 1415600897.dat" frameRight="9340" frameBottom="9800"/>
-          <DOMBitmapItem name="图片3.jpg" itemID="54605b01-00000142" sourceExternalFilepath="./LIBRARY/图片3.jpg" sourceLastImported="1415594822" sourcePlatform="macintosh" externalFileCRC32="142191226" externalFileSize="46134" allowSmoothing="true" quality="50" href="图片3.jpg" bitmapDataHRef="M 4 1415600897.dat" frameRight="10940" frameBottom="8980" isJPEG="true"/>
+          <DOMBitmapItem name="990dd0ba271aa07bbe44b0d1ba0a80bd.jpg" itemID="54606e90-00000167" sourceExternalFilepath="../demo/LIBRARY/990dd0ba271aa07bbe44b0d1ba0a80bd.png" sourceLastImported="1415605879" sourcePlatform="macintosh" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="990dd0ba271aa07bbe44b0d1ba0a80bd.png" bitmapDataHRef="M 2 1415538234.dat" frameRight="5000" frameBottom="5160"/>
+          <DOMBitmapItem name="图片1.png" itemID="54605b01-0000013a" sourceExternalFilepath="../demo/LIBRARY/图片1.png" sourceLastImported="1415594814" sourcePlatform="macintosh" externalFileCRC32="3067645926" externalFileSize="80540" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片1.png" bitmapDataHRef="M 2 1415600897.dat" frameRight="8920" frameBottom="11340"/>
+          <DOMBitmapItem name="图片2.png" itemID="54605b01-0000013e" sourceExternalFilepath="../demo/LIBRARY/图片2.png" sourceLastImported="1415594818" sourcePlatform="macintosh" externalFileCRC32="1326931371" externalFileSize="110325" allowSmoothing="true" originalCompressionType="lossless" quality="50" href="图片2.png" bitmapDataHRef="M 3 1415600897.dat" frameRight="9340" frameBottom="9800"/>
+          <DOMBitmapItem name="图片3.jpg" itemID="54605b01-00000142" sourceExternalFilepath="../demo/LIBRARY/图片3.jpg" sourceLastImported="1415594822" sourcePlatform="macintosh" externalFileCRC32="142191226" externalFileSize="46134" allowSmoothing="true" quality="50" href="图片3.jpg" bitmapDataHRef="M 4 1415600897.dat" frameRight="10940" frameBottom="8980" isJPEG="true"/>
      </media>
      <symbols>
           <Include href="Arrow Button.xml" itemIcon="0" loadImmediate="false" itemID="4a94e3f1-000017eb" lastModified="1251271665"/>
@@ -41,7 +41,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Actions" color="#FF800A" autoNamed="false" heightLiteral="18">
+                    <DOMLayer name="Actions" color="#FF800A" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <Actionscript>
@@ -87,11 +87,11 @@ stop();]]></script>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Slides MovieClip" color="#4FFF4F" current="true" isSelected="true" autoNamed="false" heightLiteral="18">
+                    <DOMLayer name="Slides MovieClip" color="#4FFF4F" autoNamed="false" heightLiteral="18">
                          <frames>
                               <DOMFrame index="0" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Slides MovieClip" name="slides_mc" selected="true" centerPoint3DX="400" centerPoint3DY="300">
+                                        <DOMSymbolInstance libraryItemName="Slides MovieClip" name="slides_mc" centerPoint3DX="400" centerPoint3DY="300">
                                              <matrix>
                                                   <Matrix tx="400" ty="300"/>
                                              </matrix>
@@ -420,6 +420,7 @@ stop();]]></script>
      </persistentData>
      <PrinterSettings/>
      <publishHistory>
+          <PublishItem publishSize="164675" publishTime="1416231491"/>
           <PublishItem publishSize="164742" publishTime="1415712495"/>
           <PublishItem publishSize="164736" publishTime="1415712455"/>
           <PublishItem publishSize="163202" publishTime="1415712186"/>
@@ -439,6 +440,5 @@ stop();]]></script>
           <PublishItem publishSize="156585" publishTime="1415606837"/>
           <PublishItem publishSize="156600" publishTime="1415606733"/>
           <PublishItem publishSize="156599" publishTime="1415606715"/>
-          <PublishItem publishSize="156594" publishTime="1415606664"/>
      </publishHistory>
 </DOMDocument>
