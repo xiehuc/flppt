@@ -1,10 +1,10 @@
-<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Slides MovieClip" itemID="4a94e3f8-000017ec" lastModified="1415712488" lastUniqueIdentifier="5">
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Slides MovieClip" itemID="4a94e3f8-000017ec" lastModified="1431783035" lastUniqueIdentifier="5">
   <timeline>
-    <DOMTimeline name="Slides MovieClip" currentFrame="9">
+    <DOMTimeline name="Slides MovieClip" currentFrame="8">
       <layers>
         <DOMLayer name="Guide:StageBounds" color="#9933CC" locked="true" autoNamed="false" layerType="guide">
           <frames>
-            <DOMFrame index="0" duration="11" keyMode="9728">
+            <DOMFrame index="0" duration="9" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import com.greensock.TimelineLite;
 
@@ -9678,70 +9678,52 @@ this.enter = tl;]]></script>
                     </DOMShape>
                   </members>
                 </DOMGroup>
-                <DOMDynamicText name="t1" width="126.2" height="46.9" autoExpand="true">
+                <DOMDynamicText name="t1" width="189.2" height="95.8" autoExpand="true">
                   <matrix>
-                    <Matrix tx="-64.05" ty="-114.8"/>
+                    <Matrix tx="-79.25" ty="-132.85"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>谢虎成</characters>
+                      <characters>SOME ONE </characters>
                       <textAttrs>
-                        <DOMTextAttrs aliasText="false" size="42" bitmapSize="840" face="ArialMT" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters></characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" size="42" bitmapSize="840" face="ArialMT" fillColor="#FFFFFF"/>
+                        <DOMTextAttrs aliasText="false" size="42" bitmapSize="840" face="SimHei" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="t2" width="122.6" height="26.85" autoExpand="true">
+                <DOMDynamicText name="t2" width="38.8" height="55.7" autoExpand="true">
                   <matrix>
-                    <Matrix tx="-62.25" ty="-63.9"/>
+                    <Matrix tx="-8.7" ty="-63.9"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>13S103040</characters>
+                      <characters>text</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" size="24" bitmapSize="480" face="ArialMT" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="t3" width="135.2" height="16.8" autoExpand="true">
+                <DOMDynamicText name="t3" width="71.55" height="35.6" autoExpand="true">
                   <matrix>
-                    <Matrix tx="-68.55" ty="-33.05"/>
+                    <Matrix tx="-25" ty="-33.05"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>网络与信息安全中心</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" size="15" bitmapSize="300" face="ArialMT" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters></characters>
+                      <characters>apartment </characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" size="15" bitmapSize="300" face="ArialMT" fillColor="#FFFFFF"/>
                       </textAttrs>
                     </DOMTextRun>
                   </textRuns>
                 </DOMDynamicText>
-                <DOMDynamicText name="t4" width="294.2" height="46.9" autoExpand="true">
+                <DOMDynamicText name="t4" width="65.45" height="46.9" autoExpand="true">
                   <matrix>
-                    <Matrix tx="-148.05" ty="36.35"/>
+                    <Matrix tx="-22.15" ty="36.35"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>国家奖学金竟选</characters>
-                      <textAttrs>
-                        <DOMTextAttrs aliasText="false" size="42" bitmapSize="840" face="ArialMT" fillColor="#FFFFFF"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters></characters>
+                      <characters>title</characters>
                       <textAttrs>
                         <DOMTextAttrs aliasText="false" size="42" bitmapSize="840" face="ArialMT" fillColor="#FFFFFF"/>
                       </textAttrs>
@@ -9750,7 +9732,7 @@ this.enter = tl;]]></script>
                 </DOMDynamicText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="1" name="学习成绩" labelType="name" keyMode="9728">
+            <DOMFrame index="1" name="标题1" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import com.greensock.TimelineLite;
 import flash.events.Event;
@@ -9765,14 +9747,6 @@ tl.add(function(){
 this.enter = tl;]]></script>
               </Actionscript>
               <elements>
-                <DOMSymbolInstance libraryItemName="Symbol 12" name="tip_text">
-                  <matrix>
-                    <Matrix ty="131.9"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-26.95"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
                 <DOMSymbolInstance libraryItemName="Symbol 1" name="rank">
                   <matrix>
                     <Matrix tx="-199.95" ty="-60.75"/>
@@ -9781,9 +9755,22 @@ this.enter = tl;]]></script>
                     <Point x="213.95" y="-0.05"/>
                   </transformationPoint>
                 </DOMSymbolInstance>
+                <DOMDynamicText name="tip_text" width="448.95" height="42">
+                  <matrix>
+                    <Matrix tx="-197.95" ty="76.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>this is some data</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="42" bitmapSize="840" face="SimHei"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="2" name="科研能力" labelType="name" keyMode="9728">
+            <DOMFrame index="2" name="标题2" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import com.greensock.TimelineLite;
 import flash.events.Event;
@@ -9826,7 +9813,7 @@ this.enter = tl;]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="3" keyMode="9728">
+            <DOMFrame index="3" name="标题3" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import com.greensock.TimelineLite;
 import com.greensock.easing.Strong;
@@ -9871,7 +9858,7 @@ this.enter = tl;]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="4" keyMode="9728">
+            <DOMFrame index="4" name="标题4" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import com.greensock.TimelineLite;
 import com.greensock.easing.Strong;
@@ -9894,7 +9881,7 @@ this.enter = tl;]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="5" name="工程实践" labelType="name" keyMode="9728">
+            <DOMFrame index="5" name="标题5" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import com.greensock.TimelineLite;
 import flash.events.Event;
@@ -9933,7 +9920,7 @@ this.enter = tl;]]></script>
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="6" keyMode="9728">
+            <DOMFrame index="6" name="标题6" labelType="name" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import com.greensock.TimelineLite;
 import flash.events.Event;
@@ -9982,244 +9969,21 @@ this.enter = tl;
                 </DOMSymbolInstance>
               </elements>
             </DOMFrame>
-            <DOMFrame index="7" name="社会实践" labelType="name" keyMode="9728">
-              <Actionscript>
-                <script><![CDATA[import com.greensock.TimelineLite;
-import flash.events.Event;
-import ppt.SlideEvent;
-
-tl = new TimelineLite();
-tl.from(pidgin,1,{alpha:0});
-tl.addPause();
-tl.from(adium,1,{alpha:0,x:pidgin.x});
-tl.from(pidgin_win,1,{alpha:0,x:pidgin.x},"-=1");
-tl.add(function(){
-	dispatchEvent(new SlideEvent(SlideEvent.PAGEOUT));
-	tl.pause();
-});
-tl.add(function(){
-	dispatchEvent(new Event("finish"));
-},"+=0.5");
-this.enter = tl;]]></script>
-              </Actionscript>
+            <DOMFrame index="7" name="标题7" labelType="name" keyMode="9728">
               <elements>
-                <DOMSymbolInstance libraryItemName="Symbol 20" name="pidgin_win">
-                  <matrix>
-                    <Matrix tx="-208.45" ty="-7.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Symbol 19" name="adium">
-                  <matrix>
-                    <Matrix tx="37.5" ty="-7"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Symbol 18" name="pidgin">
-                  <matrix>
-                    <Matrix tx="284.8" ty="-7"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="8" keyMode="9728">
-              <Actionscript>
-                <script><![CDATA[import com.greensock.TimelineLite;
-import flash.events.Event;
-
-tl = new TimelineLite();
-var y_:Number = t1.y;
-var tg:Array = [t1,t2,t3,t4,t5,t6,t7];
-tl.staggerFromTo(tg,1,{alpha:0,y:y_+20},{alpha:1,y:y_},2,0);
-tl.staggerTo(tg,1,{alpha:0,y:y_-20},2,2);
-tl.add(function(){
-	tl.pause();
-	dispatchEvent(new Event("finish"));
-});
-this.enter = tl;]]></script>
-              </Actionscript>
-              <elements>
-                <DOMSymbolInstance libraryItemName="Symbol 18" name="pidgin" centerPoint3DX="284.8" centerPoint3DY="-7.05">
-                  <matrix>
-                    <Matrix tx="284.8" ty="-7"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Symbol 19" name="adium" centerPoint3DX="37.5" centerPoint3DY="-7">
-                  <matrix>
-                    <Matrix tx="37.5" ty="-7"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMSymbolInstance libraryItemName="Symbol 20" name="pidgin_win" centerPoint3DX="-208.45" centerPoint3DY="-7.55">
-                  <matrix>
-                    <Matrix tx="-208.45" ty="-7.5"/>
-                  </matrix>
-                  <transformationPoint>
-                    <Point y="-0.05"/>
-                  </transformationPoint>
-                </DOMSymbolInstance>
-                <DOMDynamicText name="t1" fontRenderingMode="standard" width="289.95" height="27" lineType="multiline no wrap">
-                  <matrix>
-                    <Matrix tx="-101.95" ty="224.75"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>使用人数4000+</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText name="t2" fontRenderingMode="standard" left="30.1" width="229.7" height="27" lineType="multiline no wrap">
-                  <matrix>
-                    <Matrix tx="-101.95" ty="255.45"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Arch Linux 官方源</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText name="t3" fontRenderingMode="standard" left="43.6" width="202.7" height="27" lineType="multiline no wrap">
-                  <matrix>
-                    <Matrix tx="-101.95" ty="286.45"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>OpenSUSE 中文源</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText name="t4" fontRenderingMode="standard" left="77.35" width="135.2" height="27" lineType="multiline no wrap">
-                  <matrix>
-                    <Matrix tx="-101.95" ty="317.45"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>Ubuntu PPA</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText name="t5" fontRenderingMode="standard" left="43.6" width="202.7" height="27" lineType="multiline no wrap">
-                  <matrix>
-                    <Matrix tx="-101.95" ty="348.45"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>收到300多元捐赠</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText name="t6" fontRenderingMode="standard" left="70.6" width="148.7" height="27" lineType="multiline no wrap">
-                  <matrix>
-                    <Matrix tx="-101.95" ty="379.45"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>900+ commit</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-                <DOMDynamicText name="t7" fontRenderingMode="standard" left="43.6" width="202.7" height="27" lineType="multiline no wrap">
-                  <matrix>
-                    <Matrix tx="-101.95" ty="410.45"/>
-                  </matrix>
-                  <textRuns>
-                    <DOMTextRun>
-                      <characters>被Kopete-QQ依赖</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                  </textRuns>
-                </DOMDynamicText>
-              </elements>
-            </DOMFrame>
-            <DOMFrame index="9" name="其它补充" labelType="name" keyMode="9728">
-              <elements>
-                <DOMStaticText fontRenderingMode="standard" left="-245.25" width="598.7" height="335" autoExpand="true" isSelectable="false">
+                <DOMStaticText fontRenderingMode="standard" left="-168.75" width="445.7" height="222" autoExpand="true" isSelectable="false">
                   <matrix>
                     <Matrix tx="-53.95" ty="-160.2"/>
                   </matrix>
                   <textRuns>
                     <DOMTextRun>
-                      <characters>文体活动</characters>
+                      <characters>ACTIVITY&#xD;=================================&#xD;???????&#xD;&#xD;&#xD;ARTICLE&#xD;=================================&#xD;</characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
                       </textAttrs>
                     </DOMTextRun>
                     <DOMTextRun>
-                      <characters>&#xD;=================================&#xD;</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>助教</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>&#xD;</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>社会实践</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>&#xD;&#xD;&#xD;</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>论文</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>&#xD;=================================&#xD;</characters>
-                      <textAttrs>
-                        <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="27" bitmapSize="540" face="SimHei"/>
-                      </textAttrs>
-                    </DOMTextRun>
-                    <DOMTextRun>
-                      <characters>Weizhe Zhang, Hucheng Xie, Boran Cao, and Albert M. K. Cheng. &#xD;Energy-Aware Real-Time Task Scheduling for Heterogeneous &#xD;Multiprocessors with Praticle Swarm Optimization Algorithm[J]. &#xD;Mathematical Problems in Engineering, &#xD;2013, 2014: 1-9 (SCI : 1.082)</characters>
+                      <characters>???????????</characters>
                       <textAttrs>
                         <DOMTextAttrs alignment="center" aliasText="false" autoKern="false" size="19" bitmapSize="380" face="SimHei"/>
                       </textAttrs>
@@ -10228,7 +9992,7 @@ this.enter = tl;]]></script>
                 </DOMStaticText>
               </elements>
             </DOMFrame>
-            <DOMFrame index="10" keyMode="9728">
+            <DOMFrame index="8" keyMode="9728">
               <Actionscript>
                 <script><![CDATA[import flash.events.Event;
 import com.greensock.TimelineLite;

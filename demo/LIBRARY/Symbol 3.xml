@@ -1,8 +1,8 @@
 <DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Symbol 3" itemID="545f6485-0000015b" lastModified="1415538822">
   <timeline>
-    <DOMTimeline name="Symbol 3" currentFrame="23">
+    <DOMTimeline name="Symbol 3">
       <layers>
-        <DOMLayer name="Layer 2" color="#9933CC">
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
           <frames>
             <DOMFrame index="0" duration="23" tweenType="shape" keyMode="17922">
               <Actionscript>
@@ -31,7 +31,7 @@
                     </StrokeStyle>
                   </strokes>
                   <edges>
-                    <Edge strokeStyle="1" edges="!-8625 -4051/-1741 -4050"/>
+                    <Edge strokeStyle="1" edges="!-8625 -4051S4/-1741 -4050"/>
                     <Edge cubics="!-8625 -4051(;-8625,-4051 -1741,-4050 -1741,-4050q-8625 -4051 -1741 -4050)-1741,-4050;"/>
                   </edges>
                 </DOMShape>
@@ -61,7 +61,7 @@
             </DOMFrame>
           </frames>
         </DOMLayer>
-        <DOMLayer name="Layer 1" color="#4F80FF" current="true" isSelected="true">
+        <DOMLayer name="Layer 1" color="#4F80FF">
           <frames>
             <DOMFrame index="0" duration="24" keyMode="9728">
               <elements>
